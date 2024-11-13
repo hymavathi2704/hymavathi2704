@@ -1,3 +1,8 @@
-<img src="https://raw.githubusercontent.com/hymavathi2704/hymavathi2704/output/snake.svg" alt="Snake animation" />
 
-###
+# Hi, I'm Hyma ! 👋
+
+
+## 🚀 About Me
+I'm a Pre Final Student At Vsm College Of Engineering And Focusing On Mastering Full Stack and AI Based Languages And ML Models 
+
+
