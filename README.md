@@ -1,5 +1,7 @@
 # 💫 Hi there, I'm Hymavathi! 👩‍💻
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat)
+
 Welcome to my GitHub! I'm a passionate **Computer Science Engineering** student who loves building tech that makes life easier, smarter, and more creative. Whether it's **AI models**, **web apps**, or **insightful blogs**, I'm always learning, creating, and sharing.
 
 ---
@@ -40,10 +42,9 @@ Welcome to my GitHub! I'm a passionate **Computer Science Engineering** student 
 
 ## 🔗 Let's Connect!
 - 🌐 [Portfolio Website](https://hymavathi2704.github.io/Hymavathi-resume/#about)
-- 📝 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📚 [Dev.to Blog](https://dev.to/your-username)
-- 📷 [Instagram](https://instagram.com/your-profile) *(for creative updates!)*
-- 💻 [GitHub](https://github.com/your-github-username)
+- 📝 [LinkedIn](https://www.linkedin.com/in/hyma-vathi-peddimudi-1b77a02b3/)
+- 📷 [Instagram](https://www.instagram.com/hema_themoon/)
+- 🎗️ [Credly](https://www.credly.com/users/hymavathi-peddimudi)
 
 ---
 
